@@ -41,3 +41,4 @@ Rename Field
 - Class 는 아니다.
 - Class 처럼 사용할 수는 있다.
 - Record 자료구조는 특정 데이터와 관련있는 필드를 묶어놓은 자료 구조 이다. 
+- ValueObject 나, DTO 를 간단하게 사용 할수 있는 이점이 있다.
